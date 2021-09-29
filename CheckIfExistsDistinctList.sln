@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31605.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CheckIfExistsDistinctList", "CheckIfExistsDistinctList.csproj", "{795D3377-338E-4412-AF06-3B421B57BDD9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{795D3377-338E-4412-AF06-3B421B57BDD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{795D3377-338E-4412-AF06-3B421B57BDD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{795D3377-338E-4412-AF06-3B421B57BDD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{795D3377-338E-4412-AF06-3B421B57BDD9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A6E41AE3-F7D2-4702-8463-C6CC528EDFE0}
+	EndGlobalSection
+EndGlobal
