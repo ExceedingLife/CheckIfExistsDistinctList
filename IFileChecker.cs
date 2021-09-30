@@ -9,5 +9,6 @@ namespace CheckIfExistsDistinctList
         string NewFileName { get; set; }
 
         Task RunFileCheckAndCreate();
+        Task RunFileCheckKeywordAndCreate();
     }
 }

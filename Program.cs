@@ -19,13 +19,10 @@ namespace CheckIfExistsDistinctList
 
             Console.WriteLine("AppSettings Configured");
 
-           // string folderPath = builder.
-
-            //IFileChecker fileChecker;
             IFileChecker fileChecker = new FileChecker(_config);
             //System.Threading.Tasks.Task task =
-            fileChecker.RunFileCheckAndCreate();
-
+            //fileChecker.RunFileCheckAndCreate();
+            fileChecker.RunFileCheckKeywordAndCreate();
 
             Console.ReadKey();
         }

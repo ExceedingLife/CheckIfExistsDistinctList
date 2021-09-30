@@ -1,0 +1,13 @@
+﻿Harkins Technology File Checker & Create - Release Notes and Version History Log
+Harkins Technology LLC. - Created by Andrew Harkins - 2021
+** Currently being used for, checking IPs that visit my site. Creates a log file of distinct IPs by searching ALL IPs. **
+** Creates a New Text File of all the Distinct IPs or text in a text file **
+
+Version 0.0.1	09/30/21	AH
+- Setup so Program can get a string and have a keyword so it grabs all text after that  keyword.
+- Program can use ether way, Keyword or whole line and get a distinct list from each line in text file
+
+Version 0.0.0	09/29/21	AH
+- Setup so program gets parameters from appsettings.json
+- Added & setup appsettings IConfiguration and Dependancy Injection to the project.
+- Created CheckIfExcistsDistinctList Application
